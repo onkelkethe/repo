@@ -1,1 +1,2 @@
 Dies ist mein erstes Repository
+/* Und das ein Kommentar */
